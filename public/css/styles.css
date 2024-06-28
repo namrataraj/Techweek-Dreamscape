@@ -1,0 +1,18 @@
+
+body {
+  background-image: url('../images/paul-volkmer-unsplash.png');
+border: 100px;
+}
+
+.centered {
+    padding-top: 200px;
+    text-align: center;
+}
+
+p,h1,h2{
+  
+  color: rgb(100, 237, 239);
+
+ 
+}
+
